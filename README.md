@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games, TV Shows
 - 🌱 I’m currently learning JS, React, Python
 - 💞️ I’m looking to collaborate on Everything :)
-- 📫 How to reach me: levy.gustavo02@gmail.com
+- 📫 How to reach me: levy.gustavo02@gmail.com and on Instagram: @levy.guga
 
 <!---
 levygu/levygu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
